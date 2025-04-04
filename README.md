@@ -1,8 +1,8 @@
 <h1>Olá 👋, eu sou Daniel Erick</h1>
 
 <p align="center">
-  <img height='170em' src="https://github-readme-stats.vercel.app/api?username=DanielErick-dev&show_icons=true&theme=dracula&count_private=true" />
-  <img height='170em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielErick-dev&layout=compact&theme=dracula" />
+  <img height='150em' src="https://github-readme-stats.vercel.app/api?username=DanielErick-dev&show_icons=true&theme=dracula&count_private=true" />
+  <img height='150em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielErick-dev&layout=compact&theme=dracula" />
 </p>
 ### 🚀 Tech Stack
 
