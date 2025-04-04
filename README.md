@@ -1,14 +1,20 @@
 <h1>Olá 👋, eu sou Daniel Erick</h1>
----
 
-### 🔥 **Minhas Estatísticas no GitHub**
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=DanielErick-dev&show_icons=true&theme=dracula&count_private=true)
+<p align="center">
+  <img height='170em' src="https://github-readme-stats.vercel.app/api?username=DanielErick-dev&show_icons=true&theme=dracula&count_private=true" />
+  <img height='170em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielErick-dev&layout=compact&theme=dracula" />
+</p>
+### 🚀 Tech Stack
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=dracula)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+
 
 <p align="center">
   <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
@@ -18,7 +24,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
-[![3D Profile](https://github-readme-3d-profile.vercel.app/profile?username=DanielErick-dev&theme=dracula)](https://github.com/DanielErick-dev)
 
 ### 🛠 **Meu Stack Principal**
 ```python
