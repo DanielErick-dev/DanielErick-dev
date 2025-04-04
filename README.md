@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
-
+[![3D Profile](https://github-readme-3d-profile.vercel.app/profile?username=DanielErick-dev&theme=dracula)](https://github.com/DanielErick-dev)
 
 ### 🛠 **Meu Stack Principal**
 ```python
