@@ -2,11 +2,13 @@
 ---
 
 ### 🔥 **Minhas Estatísticas no GitHub**
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dark&count_private=true)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=DanielErick-dev&show_icons=true&theme=dracula&count_private=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=dracula)
 
 ---
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 <p align="center">
   <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
