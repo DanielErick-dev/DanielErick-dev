@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Daniel Erick</h1>
+<h1>Olá 👋, eu sou Daniel Erick</h1>
 ---
 
 ### 🔥 **Minhas Estatísticas no GitHub**
