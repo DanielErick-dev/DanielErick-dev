@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Python | Django | Estudando Langchain e Front-end</h3>
 
 <!-- Sobre Mim -->  
-<h2🧑‍💻 Sobre Mim</h2>
+<h2>🧑‍💻 Sobre Mim</h2>
 
 - 🏡 **Moro em**: Brasília (DF)  
 - 🎓 **Formação**: Cursando ADS pela Gran Faculdade  
@@ -17,18 +17,23 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
+
+###
 </div>
 
 ###
