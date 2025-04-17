@@ -1,10 +1,15 @@
-<h2 align="left">About Me</h2>
+<h1 align="center">Olá, eu sou Daniel Erick! 👋</h1>
 
-###
+<h3 align="center">Desenvolvedor Python | Django | Estudando Langchain e Front-end</h3>
 
-<p align="left">Python Developer</p>
+<!-- Sobre Mim -->  
+<h2🧑‍💻 Sobre Mim</h2>
 
-###
+- 🏡 **Moro em**: Brasília (DF)  
+- 🎓 **Formação**: Cursando ADS pela Gran Faculdade  
+- 💼 **Atualmente**: estudando Langchain + Next
+- 🐍 **Afinidade**: Python + Django (backend)  
+- 🎯 **Objetivo**: Buscando minha primeira oportunidade na área  
 
 <p align="left">Techs</p>
 
@@ -22,6 +27,11 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
 </div>
 
 ###
@@ -59,8 +69,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
 
 ###
 
