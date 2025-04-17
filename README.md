@@ -32,14 +32,12 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
-
 ###
-</div>
+<h2>📫 Contato</h2>
 
-###
-</div>
-
-###
+📧 **Email**: danielerick.estudante@gmail.com 
+📞 **WhatsApp**: [(61) 96199605-2272](https://wa.me/5561996052272) 
+🔗 **LinkedIn**: [Daniel Erick](https://linkedin.com/in/danielerick-dev)  
 
 <h2 align="left">Stats</h2>
 
