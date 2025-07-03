@@ -35,7 +35,7 @@
 ###
 <h2>📫 Contato</h2>
 
-📧 **Email**: danielerick.estudante@gmail.com 
+📧 **Email**: daniel.erick.dev@gmail.com 
 📞 **WhatsApp**: [(61) 96199605-2272](https://wa.me/5561996052272) 
 🔗 **LinkedIn**: [Daniel Erick](https://linkedin.com/in/danielerick-dev)  
 
