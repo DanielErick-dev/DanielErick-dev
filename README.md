@@ -19,7 +19,7 @@ Aqui estão alguns dos projetos que mais me orgulho de ter desenvolvido:
 |---|---|---|
 | **Academia Strong Fitness** | `Python`, `Django`, `JavaScript`, `Docker`, `PostgreSQL`, `Cron` | [Ver Repositório](https://github.com/DanielErick-dev/project-strong-fitness) |
 | **Shadow Finance - Assistente Financeiro** | `Next.js`, `React`, `Tailwind CSS`, `Consumo de API` | [Ver Repositório](https://github.com/DanielErick-dev/Shadow-Finance-system) |
-| **ChatBot com IA (Em Desenvolvimento)** | `Python`, `FastAPI`, `LangChain`, `Docker`, `Redis` | [Ver Repositório](https://github.com/DanielErick-dev/WHATSAPP_BOT_AI) |
+| **ChatBot com IA (Em Desenvolvimento)** | `Python`, `FastAPI`, `LangChain`, `Docker`, `Redis` | [Ver Repositório](https://github.com/DanielErick-dev/chatbot-whatsapp) |
 
 ---
 
