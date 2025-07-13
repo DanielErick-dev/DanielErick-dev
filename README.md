@@ -1,77 +1,56 @@
-<h1 align="center">Olá, eu sou Daniel Erick! 👋</h1>
+# <h1 align="center">Olá, eu sou o Daniel Erick! 👋</h1>
 
-<h3 align="center">Desenvolvedor Python | Django | Estudando Langchain e Front-end</h3>
+<h3 align="center">Desenvolvedor Fullstack | Apaixonado por Python, Django, IA e Front-end</h3>
 
-<!-- Sobre Mim -->  
-<h2>🧑‍💻 Sobre Mim</h2>
+## 👨‍💻 Sobre Mim
 
-- 🏡 **Moro em**: Brasília (DF)  
-- 🎓 **Formação**: Cursando ADS pela Gran Faculdade  
-- 💼 **Atualmente**: estudando Langchain + Next
-- 🐍 **Afinidade**: Python + Django (backend)  
-- 🎯 **Objetivo**: Buscando minha primeira oportunidade na área  
+Sou um Desenvolvedor de Software empenhado em construir soluções completas desde a lógica de negócio no back-end até a experiência do usuário no front-end.
 
-<p align="left">Techs</p>
+Minha especialidade principal é o desenvolvimento de back-ends robustos e escaláveis com **Python** e **Django**. No front-end, tenho experiência na criação de interfaces dinâmicas e modernas utilizando **React**, **Next.js** e **Tailwind CSS**.
 
-###
+Atualmente, estou expandindo minhas habilidades em Inteligência Artificial, explorando **LangChain** e **FastAPI** para integrar IA generativa em minhas aplicações. Estou em busca da minha primeira oportunidade para aplicar estas habilidades e continuar aprendendo em um ambiente desafiador.
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
-###
-<h2>📫 Contato</h2>
+## 🚀 Meus Projetos Principais
 
-📧 **Email**: daniel.erick.dev@gmail.com 
-📞 **WhatsApp**: [(61) 96199605-2272](https://wa.me/5561996052272) 
-🔗 **LinkedIn**: [Daniel Erick](https://linkedin.com/in/danielerick-dev)  
+Aqui estão alguns dos projetos que mais me orgulho de ter desenvolvido:
 
-<h2 align="left">Stats</h2>
+| Projeto | Tecnologias | Link |
+|---|---|---|
+| **Academia Strong Fitness** | `Python`, `Django`, `JavaScript`, `Docker`, `PostgreSQL`, `Cron` | [Ver Repositório](https://github.com/DanielErick-dev/project-strong-fitness) |
+| **Shadow Finance - Assistente Financeiro** | `Next.js`, `React`, `Tailwind CSS`, `Consumo de API` | [Ver Repositório](https://github.com/DanielErick-dev/Shadow-Finance-system) |
+| **ChatBot com IA (Em Desenvolvimento)** | `Python`, `FastAPI`, `LangChain`, `Docker`, `Redis` | [Ver Repositório](https://github.com/DanielErick-dev/WHATSAPP_BOT_AI) |
 
-###
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📫 Como me Encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielerickdev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.erick.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561996052272)
+
+---
+## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielerick-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielerick-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielerick-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielerick-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/danielerick-dev/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/danielerick-dev/danielerick-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/danielerick-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/d.daniel.bsb" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
 
