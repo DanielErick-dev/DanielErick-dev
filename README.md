@@ -28,7 +28,7 @@
 |---|---|---|
 | **Academia Strong Fitness** | `Python`, `Django`, `JavaScript`, `Docker`, `Cron` | [Ver Repositório](https://github.com/DanielErick-dev/strong-fitness-project) |
 | **Shadow Finance - Assistente Financeiro** | `Next.js`, `React`, `Tailwind CSS`, `Consumo de API` | [Ver Repositório](https://github.com/DanielErick-dev/Shadow-Finance-system) |
-| **ChatBot com IA (Em Desenvolvimento)** | `Python`, `FastAPI`, `LangChain`, `Docker`, `Redis` | [Ver Repositório](https://github.com/DanielErick-dev/chatbot-whatsapp) |
+| **ChatBot com IA** | `Python`, `FastAPI`, `LangChain`, `Docker`, `Redis` | [Ver Repositório](https://github.com/DanielErick-dev/chatbot-whatsapp) |
 
 ---
 
