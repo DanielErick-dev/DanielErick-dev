@@ -1,10 +1,22 @@
 # <h1 align="left">Olá, eu sou o Daniel 👋</h1>
 
-<h3 align="left">Desenvolvedor Back-end | Python, Django & Inteligência Artificial</h3>
+<h3 align="left">Software Engineer · Backend Python/Django · Frontend Next.js</h3>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" align="right" width="200px">
 <p align="left">
-  Sou um Desenvolvedor de Software apaixonado por construir soluções completas e de ponta a ponta. Minha especialidade principal é o desenvolvimento de back-ends robustos com <strong> Python</strong> e <strong>Django</strong>, mas também tenho experiência na criação de interfaces dinâmicas com <strong>React</strong> e <strong>Next.js</strong>. Atualmente, estou me aprofundando em <strong>inteligência artificial</strong>, explorando <strong>Langchain</strong> e <strong>FastAPI</strong>. Busco minha primeira oportunidade para aplicar esta gama de habilidades e continuar aprendendo em um ambiente desafiador.
+  Software Engineer com foco em backend Django e frontend Next.js. 
+Construo sistemas do início ao fim — da modelagem ao deploy.
+
+Atualmente na Agatti Tech, desenvolvendo e mantendo plataformas 
+web reais com PHP, Drupal e WordPress. Entrei sem conhecer a stack 
+e em semanas já estava entregando em produção.
+
+Fora do trabalho continuo construindo:
+- Monarca Financeiro → sistema financeiro pessoal em produção 
+  (monarcafinanceiro.com.br) com Django, DRF, Next.js, Docker, 
+  Oracle Cloud e Cloudflare
+- Strong Fitness → gestão de academia com automação de mensagens 
+  via WhatsApp para inadimplentes
 </p>
 
 <p align="left">
@@ -29,7 +41,6 @@
 |---|---|---|
 | **Academia Strong Fitness** | `Python`, `Django`, `JavaScript`, `Docker`, `Cron` | [Ver Repositório](https://github.com/DanielErick-dev/strong-fitness-project) |
 | **Shadow Finance - Assistente Financeiro** | `Next.js`, `React`, `Tailwind CSS`, `Consumo de API` | [Ver Repositório](https://github.com/DanielErick-dev/Shadow-Finance-system) |
-| **ChatBot com IA (Em Desenvolvimento)** | `Python`, `FastAPI`, `LangChain`, `Docker`, `Redis` | [Ver Repositório](https://github.com/DanielErick-dev/chatbot-whatsapp) |
 
 ---
 
